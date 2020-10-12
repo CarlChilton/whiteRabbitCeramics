@@ -106,7 +106,7 @@ export default function ProfilePage(props) {
             <GridContainer justify="center">
               <GridItem align="center" xs={12} sm={12} md={12}>
                 <h3 className="strapline ">Subscribe to my newsletter</h3>
-                
+                 
               </GridItem>
               <GridItem xs={12} sm={12} md={6}>
                 <CustomInput
