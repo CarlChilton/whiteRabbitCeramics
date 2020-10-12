@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8ef7034647453b9fe1ae4feeb3d52b8e",
+    "revision": "865e9fa374927fa36848c98d4c7ac50b",
     "url": "/whiteRabbitCeramics/index.html"
   },
   {
-    "revision": "88103ddaf1f9fd10c005",
+    "revision": "f80ac2dbdd67d19ff7e6",
     "url": "/whiteRabbitCeramics/static/css/main.72eb33be.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/whiteRabbitCeramics/static/js/2.46f53205.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "88103ddaf1f9fd10c005",
-    "url": "/whiteRabbitCeramics/static/js/main.1c7ab881.chunk.js"
+    "revision": "f80ac2dbdd67d19ff7e6",
+    "url": "/whiteRabbitCeramics/static/js/main.eda36e57.chunk.js"
   },
   {
     "revision": "1045049eaa1afbe0dfc9",

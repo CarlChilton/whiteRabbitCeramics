@@ -34,12 +34,12 @@ class App extends Component {
 		        }}
 		    /> 
 		    <Switch>    	   
-		      <Route exact path="/" component={ProfilePage} />
-		      <Route path="/admin" component={LoginPage} />
-		      <Route path="/about" component={About} />
-		      <Route path="/shop" component={Shop} />
-		      <Route path="/gallery" component={Gallery} />
-		      <Route path="/contact" component={Contact} />
+		      <Route exact path="/whiteRabbitCeramics/" component={ProfilePage} />
+		      <Route path="/whiteRabbitCeramics/admin" component={LoginPage} />
+		      <Route path="/whiteRabbitCeramics/about" component={About} />
+		      <Route path="/whiteRabbitCeramics/shop" component={Shop} />
+		      <Route path="/whiteRabbitCeramics/gallery" component={Gallery} />
+		      <Route path="/whiteRabbitCeramics/contact" component={Contact} />
 		    </Switch>
 		  </Router>
       </div>
