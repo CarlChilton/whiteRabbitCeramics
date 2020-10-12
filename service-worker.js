@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/whiteRabbitCeramics/precache-manifest.2891735cbc4123ab3321f45082299196.js"
+  "/whiteRabbitCeramics/precache-manifest.a253bbd1b406e2b0ea08f04d1096833a.js"
 );
 
 self.addEventListener('message', (event) => {
