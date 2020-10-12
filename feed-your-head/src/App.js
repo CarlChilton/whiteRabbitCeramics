@@ -22,7 +22,7 @@ class App extends Component {
   render() {
     return (
       <div>
-          <Router history={hist}>
+          <Router history={hist} basename="/whiteRabbitCeramics/">
 		 	<Header
 		        color="transparent"
 		        brand="White Rabbit Ceramics"
