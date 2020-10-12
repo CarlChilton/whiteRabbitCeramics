@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/whiteRabbitCeramics/static/css/main.72eb33be.chunk.css",
-    "main.js": "/whiteRabbitCeramics/static/js/main.671f7192.chunk.js",
-    "main.js.map": "/whiteRabbitCeramics/static/js/main.671f7192.chunk.js.map",
+    "main.js": "/whiteRabbitCeramics/static/js/main.ec1b3f06.chunk.js",
+    "main.js.map": "/whiteRabbitCeramics/static/js/main.ec1b3f06.chunk.js.map",
     "runtime-main.js": "/whiteRabbitCeramics/static/js/runtime-main.7e3612f9.js",
     "runtime-main.js.map": "/whiteRabbitCeramics/static/js/runtime-main.7e3612f9.js.map",
     "static/js/2.46f53205.chunk.js": "/whiteRabbitCeramics/static/js/2.46f53205.chunk.js",
     "static/js/2.46f53205.chunk.js.map": "/whiteRabbitCeramics/static/js/2.46f53205.chunk.js.map",
     "index.html": "/whiteRabbitCeramics/index.html",
-    "precache-manifest.ea10914c56e83143dc868110d1cec2ff.js": "/whiteRabbitCeramics/precache-manifest.ea10914c56e83143dc868110d1cec2ff.js",
+    "precache-manifest.2891735cbc4123ab3321f45082299196.js": "/whiteRabbitCeramics/precache-manifest.2891735cbc4123ab3321f45082299196.js",
     "service-worker.js": "/whiteRabbitCeramics/service-worker.js",
     "static/css/main.72eb33be.chunk.css.map": "/whiteRabbitCeramics/static/css/main.72eb33be.chunk.css.map",
     "static/js/2.46f53205.chunk.js.LICENSE.txt": "/whiteRabbitCeramics/static/js/2.46f53205.chunk.js.LICENSE.txt",
@@ -40,6 +40,6 @@
     "static/js/runtime-main.7e3612f9.js",
     "static/js/2.46f53205.chunk.js",
     "static/css/main.72eb33be.chunk.css",
-    "static/js/main.671f7192.chunk.js"
+    "static/js/main.ec1b3f06.chunk.js"
   ]
 }
